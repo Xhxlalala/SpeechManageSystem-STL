@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1613637022 source:g:\c++_project\基于stl的演讲比赛流程\speechmanager.cpp
+	"speechManager.h"
+	<windows.h>
+	<string>
+
+1613638993 g:\c++_project\基于stl的演讲比赛流程\speechmanager.h
+	<iostream>
+	<vector>
+	<map>
+	"speaker.h"
+
+1613639061 source:g:\c++_project\基于stl的演讲比赛流程\main.cpp
+	<iostream>
+	"speechManager.h"
+	<windows.h>
+	<string>
+
+1613635353 g:\c++_project\基于stl的演讲比赛流程\speaker.h
+	<iostream>
+
+1613726438 source:d:\我的坚果云\c++项目\基于stl的演讲比赛流程\main.cpp
+	<iostream>
+	"speechManager.h"
+	<windows.h>
+	<string>
+	<ctime>
+
+1613726438 d:\我的坚果云\c++项目\基于stl的演讲比赛流程\speechmanager.h
+	<iostream>
+	<vector>
+	<map>
+	"speaker.h"
+	<windows.h>
+	<string>
+	<deque>
+	<algorithm>
+	<functional>
+	<numeric>
+	<fstream>
+
+1613635353 d:\我的坚果云\c++项目\基于stl的演讲比赛流程\speaker.h
+	<iostream>
+
+1613724382 source:d:\我的坚果云\c++项目\基于stl的演讲比赛流程\speechmanager.cpp
+	"speechManager.h"
+
